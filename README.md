@@ -1,6 +1,12 @@
-🌱 Crop Recommendation Engine
+# 🌱 Crop Recommendation Engine
 
-A weather-aware, soil-aware crop intelligence engine that transforms farm conditions into actionable crop recommendations.
+A weather-aware crop recommendation system that analyzes soil, season, and environmental conditions to suggest suitable crops.
+
+## 🚀 Live Demo
+
+👉 **[Try the Crop Recommendation Engine](https://dynamic-crop-recommendation-system.onrender.com/)**
+
+> The live demo is deployed on Render and runs the same application available in this repository.
 
 <p align="center">
   <img src="static/background.jpg" alt="Crop Recommendation Engine" width="900"/>
@@ -9,7 +15,6 @@ A weather-aware, soil-aware crop intelligence engine that transforms farm condit
   <strong>From raw farm conditions → agricultural intelligence → ranked crop recommendations.</strong>
 </p>
 
-⸻
 
 🚀 What Is This?
 
